@@ -1,0 +1,80 @@
+
+  body {
+    background-image: url('pexels-photo-5453909.webp');
+    background-repeat: no-repeat;
+    background-size: cover; /* This ensures the image covers the entire body */
+    background-size: 100% 400px;
+    
+  }
+
+  .background-heading{
+    background-color: black;
+    color: red;
+
+  }
+
+  button{
+    background-color: yellow;
+  }
+
+  .connecting {
+    padding-right: 27%;
+  }
+
+  nav li {
+    margin-left: 15px; /* Add a margin to push items to the right */
+    }
+
+    
+/* Move all the navbar items to the right */
+nav ul {
+    display: flex;
+    justify-content: flex-end; /* Move items to the right */
+    padding: 10px 0;
+    margin: 0;
+    background-color: #fff;
+    list-style: none;
+}
+
+nav ul div{
+    margin-right: 340px; /* Add a margin to push items to the right */
+}
+
+
+
+.background-heading {
+    display: inline-block;
+    color: #fff; /* Text color for the heading */
+    padding: 10px; /* Add padding around the text */
+}
+
+h1 {
+    margin-bottom: 5px; /* Reduce the bottom margin of h1 */
+}
+
+.paragraph1 {
+    margin-top: 5px; /* Reduce the top margin of p */
+    background-color: lightseagreen;
+}
+
+
+
+
+button {
+    margin-top: 5px; /* Reduce the top margin of p */
+}
+
+.productLabelParagraph{
+    text-align: center;
+    color: blue;
+}
+.centered {
+    text-align: center;
+  }
+
+.lastbutton {
+  color: blue;
+  column-rule-style: dotted;
+}
+
+
